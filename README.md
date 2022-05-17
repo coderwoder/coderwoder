@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderwoder
-- 👀 I’m interested in ...goodthings i guess
-- 🌱 I’m currently learning ...C
+- 👀 I’m interested in ...goodshortcuts i guess
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...nothing
 - 📫 How to reach me ...i dont want you to
 
